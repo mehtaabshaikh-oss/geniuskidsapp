@@ -1,0 +1,38 @@
+[
+  {
+    "id": "cell_01",
+    "schema_version": "1.0",
+    "module": "Biology",
+    "topic": "The Cell",
+    "thumbnail": "assets/thumbnails/cell_thumb.png",
+    "difficulty": 1,
+    "unlocks_after": null,
+    "diagram": {
+      "type": "svg",
+      "url": "local"
+    },
+    "interactive_parts": [
+      {
+        "svg_path_id": "mitochondria",
+        "name": "Mitochondria",
+        "fact_kid": "Mitochondria are like tiny power plants inside the cell. They give you energy!",
+        "fact_genius": "They produce ATP and actually have their own DNA separate from the cell's nucleus.",
+        "audio_url": null
+      },
+      {
+        "svg_path_id": "nucleus",
+        "name": "Nucleus",
+        "fact_kid": "The nucleus is the boss! It holds all the instructions that tell the cell what to do.",
+        "fact_genius": "The nucleus is a membrane-bound organelle that contains the cell's chromosomes (DNA).",
+        "audio_url": null
+      }
+    ],
+    "quizzes": [
+      {
+        "type": "find_on_image",
+        "question": "Where is the Nucleus?",
+        "target_svg_id": "nucleus"
+      }
+    ]
+  }
+]
