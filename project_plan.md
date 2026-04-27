@@ -73,3 +73,13 @@ If this updated v2 plan looks perfect, we can begin:
 1. **Initialize Project:** I will create the React Native Expo app in your workspace.
 2. **Install Core Dependencies:** I will install `react-native-svg` and `expo-av` (for audio).
 3. **Build the Cell Prototype:** I will set up the first screen using a sample SVG cell diagram to test the clicking and bottom-sheet flow.
+
+## 7. Project Status & Repository
+
+The project has officially started!
+- **GitHub Repository:** [https://github.com/mehtaabshaikh-oss/geniuskidsapp](https://github.com/mehtaabshaikh-oss/geniuskidsapp)
+- **What's Done (Phase 1 & 2):**
+  - Initialized the React Native Expo project.
+  - Installed `react-native-svg` and `expo-av`.
+  - Created the scalable JSON schema mock data (`assets/data/topics.json`).
+  - Created the first interactive SVG component placeholder (`components/PlaceholderCell.tsx`).
